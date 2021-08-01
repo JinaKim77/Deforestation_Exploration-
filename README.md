@@ -1,4 +1,8 @@
-# Deforestation_Exploration
+<h1 align="center">
+    Deforestation Exploration
+</h1>
+
+<br>
 
 ### A report document that includes the following sections:
 1. GLOBAL SITUATION
@@ -8,8 +12,4 @@
 5. APPENDIX: SQL queries used
 
 ### Introduction
-You’re a data analyst for ForestQuery, a non-profit organization. on a mission to reduce deforestation around the world and which raises awareness about this important environmental topic.
-
-Your executive director and her leadership team members are looking to understand which countries and regions around the world seem to have forests that have been shrinking in size, and also which countries and regions have the most significant forest area, both in terms of amount and percent of total area. The hope is that these findings can help inform initiatives, communications, and personnel allocation to achieve the largest impact with the precious few resources that the organization has at its disposal.
-
-You’ve been able to find tables of data online dealing with forestation as well as total land area and region groupings, and you’ve brought these tables together into a database that you’d like to query to answer some of the most important questions in preparation for a meeting with the ForestQuery executive team coming up in a few days. Ahead of the meeting, you’d like to prepare and disseminate a report for the leadership team that uses complete sentences to help them understand the global deforestation overview between 1990 and 2016.
+SQL is most commonly used to manipulate and analyze data to inform decision making. In this project, you will act as a data analyst for an organization on a mission to reduce deforestation around the world and to raise awareness about this important environmental topic. First, you’ll clean any erroneous values in a table, join that table to another lookup table to bring in a new categorical and quantitative variable, and return a new view of all categories greater than a reference value. Then, you will create and execute SQL queries to perform calculations using variables from those disparate data sets to answer questions for stakeholders. Your analysis will help you better understand which countries and regions around the world seem to have forests that have been shrinking in size, and also which countries and regions have the most significant forest area. Lastly, you will compile your answers and summarize your analysis into a report that can be shared with a leadership team.
